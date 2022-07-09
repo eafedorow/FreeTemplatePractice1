@@ -1,5 +1,5 @@
 # FreeTemplatePractice1
-I found a free template in the public domain and made it up
+I found a free template in the public domain and made it up for PC, tablet and mobile
 
 ## Technologies and libraries
 1. HTML
